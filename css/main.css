@@ -30,16 +30,14 @@ header{
     height: 600px;
     background-color: #99a692;
     padding-top: 50px;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 .sandwich{
    width: 500px;
    height: 500px;
-   border-radius: 50%;
    margin: 0 auto;
-   background-image: url(../assets/sandwhich\ header.avif);
+   text-align: center;
+   background-image: url(../assets/sandwhich\ header.png);
    background-position: center;
    background-size: cover;
 }
