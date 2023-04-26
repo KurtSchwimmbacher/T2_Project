@@ -30,13 +30,27 @@ header{
     height: 600px;
     background-color: #99a692;
     padding-top: 50px;
+    text-align: center;
+}
+
+header h1{
+    font-size: 80px;
+    margin: 0;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+header h3{
+    font-size: 48px;
+    margin-left: 20px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .sandwich{
    width: 500px;
    height: 500px;
-   margin: 0 auto;
-   text-align: center;
+   margin-left: 35%;
+   margin-top: -90px;
    background-image: url(../assets/sandwhich\ header.png);
    background-position: center;
    background-size: cover;
