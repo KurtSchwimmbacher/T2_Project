@@ -56,7 +56,13 @@ header h3{
    background-size: cover;
 }
 
-
+.splash{
+    width: 500px;
+    height: 400px;
+    background-image: url(../assets/Sandwich\ splash.png);
+    background-position: center;
+    background-size: cover;
+}
 
 
 
