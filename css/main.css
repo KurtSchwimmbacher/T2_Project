@@ -1,6 +1,6 @@
 nav{
     width: 100%;
-    height: 120px;
+    height: 100px;
     margin-top: 0px;
 }
 
@@ -18,7 +18,7 @@ nav li{
 
 .nav-logo{
     width: 160px;
-    height: 120px;
+    height: 100px;
     background-image: url(../assets/Black\ Minimal\ Cake\ Logo.png);
     background-position: center;
     background-size: cover;
@@ -27,35 +27,40 @@ nav li{
 
 header{
     width: 100%;
-    height: 600px;
+    height: 800px;
     background-color: #99a692;
     padding-top: 50px;
     text-align: center;
 }
 
 header h1{
-    font-size: 80px;
+    font-size: 100px;
     margin: 0;
     color: white;
+    margin-top: -30px;
+    margin-bottom: 10px;
     font-family: 'Lobster', cursive;
-}
-header h3{
-    font-size: 48px;
-    margin-left: 20px;
-    color: white;
-    font-family: 'Montserrat', sans-serif;
 }
 
 .sandwich{
    width: 500px;
    height: 500px;
-   margin-left: 35%;
-   margin-top: -90px;
    background-image: url(../assets/sandwhich\ header.png);
    background-position: center;
    background-size: cover;
 }
 
+
+.splash{
+    width: 1000px;
+    height: 610px;
+    padding-top: 40px;
+    padding-left: 275px;
+    margin: 0 auto;
+    background-image: url(../assets/Splash.png);
+    background-position: center;
+    background-size: cover;
+}
 
 
 
