@@ -6,9 +6,11 @@ nav{
 
 .nav-con ul{
     list-style: none;
+    margin-left: -100px;
 }
 .nav-con a{
     text-decoration: none;
+    color: #2b2b2b;
 }
 
 nav li{
@@ -17,7 +19,7 @@ nav li{
 }
 
 .active{
-    color: #99a692;
+    color: #99a692 !important;
     font-weight: bold;
 }
 
@@ -29,13 +31,30 @@ nav a:hover{
 .nav-con{
     width: 50%;
     float: right;
-    margin-right: 200px;
+    margin-right: 100px;
     margin-top: 45px;
 }
 
-.search-bar{
+.search-con{
+    width: 250px;
+    height: 120px;
+    margin-top: -70px;
+    background-color: #a3a6b2;
+    border-radius: 10px;
+    padding-top: 45px;
+    padding-left: 10px;
+    padding-right: 10px;
     float: right;
-    margin-top: -25px;
+}
+
+.search-bar{
+    float: left;
+}
+
+.search-bar input{
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid white;
 }
 
 .nav-logo{
