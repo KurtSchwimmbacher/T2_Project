@@ -1,4 +1,4 @@
-const breadArr = ["White","Whole Wheat","Rye","Ciabatta","Sourdough","bagel","Soda"];
+const breadArr = ["White","Whole Wheat","Rye","Ciabatta","Sourdough"];
 const toppingArr = ["Pickle","Lettuce","Tomato","Coleslaw","Avocado","Rocket"];
 const meatArr = ["Ham","Bacon","Prosciutto","Chicken","Steak"];
 const sauceArr = ["Mayo","BBQ","Balsamic","Sweet Chili Jam"];
